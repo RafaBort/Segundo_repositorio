@@ -6,7 +6,7 @@ namespace programacao2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Aula repositório");
+            Console.WriteLine("Aula repositório !");
         }
     }
 }
